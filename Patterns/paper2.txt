@@ -1,0 +1,27 @@
+Blender (The Blender Foundation) 
+Did you love Flash, but now need an “easy to learn and use” equivalent for 
+3D animation software? If so, then you should start here. Not only is it small 
+and not processor demanding, but it’s also free and comes with a Web community that
+ offers hundreds of free classes and tutorials on its site. It’s also been used to 
+make award winning short films and has plenty of advanced features that are worth checking out
+
+
+Blend for Visual Studio helps you design XAML-based Windows desktop, web, 
+Windows Phone, and Windows Store apps. It provides the same basic XAML design experience as Visual Studio and adds visual designers
+ for advanced tasks such as animations and behaviors.
+
+Blender is the open source 3D creation set. It is small 
+and low processor demanding, but it’s also offers hundreds of free classes and tutorials on its site for beginners.It supports the complex of the 3D pipeline—modeling, rigging, 
+animation, simulation, rendering, compositing and motion tracking,video editing and  also game creation.
+
+Poser (Smith Micro Software)
+If your job is to just 3D model, skin, rig, scene light, texture, or any other 3D 
+specialty, then you’re the unsung hero on AnimationCareerReview, and you have our 
+staff’s respect! However, if you just exclusively want to work on animation, and 
+showcase purely your animation skills, then why bother with the rest? If that describes 
+you, then Poser should be high on your consideration list since it comes with a free library 
+of base human and animal 3D meshes that will save you large amounts of time. Yes, it can do
+other things as well, but not as well as the others on this list.
+
+
+Poser 

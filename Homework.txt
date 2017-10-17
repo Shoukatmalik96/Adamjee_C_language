@@ -1,0 +1,4 @@
+// Mid point 
+	// Area of circle
+	//  x2+y2 = r2 ( when  x and y lie on origin)
+	// x2+y2-2gx-2fy+c2=0(standard eqn of circle)
